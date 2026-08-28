@@ -1,0 +1,9 @@
+{
+  "release-type": "go",
+  "packages": {
+    ".": {
+      "package-name": "release-please-test",
+      "release-type": "go"
+    }
+  }
+}
